@@ -1,0 +1,54 @@
+#global_error{
+    text-align: center;
+    letter-spacing: 0.03rem;
+    padding-top: 0.6rem;
+}
+#global_error img{
+    width: 2rem;
+    height: 2.48rem;
+}
+#global_error>div:nth-of-type(2){
+    font-weight: bold;
+    font-size: 0.4rem;
+    margin-top: 0.3rem;
+    color: #000;
+}
+#global_error>div:last-of-type{
+    font-size: 0.28rem;
+    margin-top: 0.1rem;
+}
+
+
+#global_support{
+    border-top: 0.02rem solid #ddd;
+    margin-top: 0.4rem;
+}
+#global_support .swiper-pagination-bullet-active{
+    background-color: #ff7292;
+}
+/* 按钮 */
+#global_btn{
+    text-align: center;
+    margin-top: 0.8rem;
+}
+#global_btn .global_btn_inner{
+    display: inline-block;
+}
+#global_btn .global_btn_inner>div{
+    float: left;
+    font-size: 0.3rem;
+    background-color: #ff7292;
+    color: #fff;
+    padding: 0.14rem 0;
+    width: 2.74rem;
+    text-align: center;
+    border-radius: 0.14rem;
+    border: 0.02rem solid #ff7292;
+}
+#global_btn .global_btn_inner>div:last-of-type{
+    margin-left: 0.5rem;
+}
+#global_btn .global_btn_inner>div.hover{
+    background-color: #fff;
+    color: #ff7292;
+}

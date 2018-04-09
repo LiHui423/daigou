@@ -1,0 +1,186 @@
+.container{
+    background-color: #efefef;
+    margin-bottom: 0;
+    position:fixed;
+    top: 0px;
+    bottom: 0px;
+    overflow: scroll;
+}
+/*banner圖組*/
+/* #global_banner{
+	width: 100%;
+	height: 3.3rem;
+	overflow: hidden;
+	background-color: #efefef;
+}
+#global_banner .global_banner_inner{
+	height: 100%;
+}
+#global_banner .global_banner_inner>div{
+	width: 100%;
+	height: 100%;
+}
+#global_banner .swiper-pagination>span{
+    width: 0.2rem;
+    height: 0.2rem;  
+}
+#global_banner .swiper-pagination-bullet-active,
+#global_support .swiper-pagination-bullet-active{
+	background-color: #ff7292;
+} */
+/*搜索框*/
+#global_search{
+    background-color: #ff7292;
+    padding: 0.2rem;
+    margin-top: 0.18rem;
+}
+#global_search .global_searchBar{
+    border: 0.02rem solid #fff;
+    width: 100%;
+    height: 0.6rem;
+    background-color: #fff;
+    border-radius: 0.08rem;
+    overflow: hidden;
+}
+#global_search .global_searchBar .global_searchInput,
+#global_search .global_searchBar .global_searchBtn{
+	float: left;
+	height: 100%;
+}
+#global_search .global_searchBar .global_searchInput{
+    width: 76%;
+    border: none;
+    outline: none;
+    padding: 0 0.1rem;
+    font-size: 0.22rem;
+}
+#global_search .global_searchBar .global_searchBtn{
+	font-size: 0.28rem;
+	width: 24%;
+    color: #fff;
+    background-color: #ff7292;
+    line-height: 2;
+    text-align: center;
+    border-left: 0.02rem solid #ff7292;
+}
+#global_search .global_searchBar .global_searchBtn.hover{
+    background-color: #fff;
+    color: #ff7292;
+}
+/*排行榜*/
+#global_rank{
+	background-color: #fff;
+}
+#global_rank .global_rankTitle{
+    text-align: center;
+    font-size: 0.34rem;
+    font-weight: bold;
+    line-height: 0.8rem;
+    color: #000;
+}
+#global_rank ul li{
+	position: relative;
+    padding: 0.22rem 0;
+	border-bottom: 0.02rem solid #efefef;
+}
+#global_rank ul li:last-of-type{
+	border-bottom: none;
+}
+#global_rank ul li>div{
+	float: left;
+}
+#global_rank .global_shopImg{
+    width: 1.8rem;
+    margin-top: 0.13rem;
+}
+#global_rank .global_shopImg img{
+	width: 100%;
+}
+#global_rank .global_shopInfo{
+	margin-left: 0.14rem;
+}
+#global_rank .global_shopInfo>div:first-of-type{
+    font-size: 0.3rem;
+    color: #000;
+}
+#global_rank .global_shopInfo>div:nth-of-type(2){
+    font-size: 0.26rem;
+    color: #000;
+}
+#global_rank .global_shopInfo>div:last-of-type{
+	font-size: 0.22rem;
+    margin-top: 0.06rem;
+    color: #aaa;
+}
+#global_rank .global_rankMore{
+    text-align: center;
+    border-top: 0.03rem solid #efefef;
+    line-height: 0.8rem;
+    color: #888;
+    font-size: 0.28rem;
+}
+#global_rank .global_rankMore div{
+	position: relative;
+}
+/*其他宜粉代购*/
+#global_list{
+	margin-top: -10px;
+}
+#global_list .global_listTitle{
+	text-align: center;
+	border-bottom: 0.02rem solid #efefef;
+	padding: 0.18rem 0;
+	background-color: #fff;
+}
+#global_list .global_listTitle .global_listTitleOne{
+	color: #000;
+    font-size: 0.34rem;
+}
+#global_list .global_listTitle .global_listTitleTwo{
+    font-size: 0.26rem;
+}
+#global_list .global_listSort{
+	background-color: #fff;
+	text-align: center;
+    padding: 0.28rem 0;
+}
+#global_list .global_listSortBtn{
+	position: relative;
+    color: #aaa;
+    font-size: 0.25rem;
+}
+#global_list .global_listSortSelect{
+	width: 100%;
+    border-radius: 0.3rem;
+    border: 0.02rem solid #bbb;
+    /* border-bottom: 0.03rem solid #bbb; */
+    height: 0.6rem;
+    line-height: 0.56rem;
+    position: relative;
+    z-index: 2;
+    background-color: #fff;
+}
+#global_list .global_listSortBox{
+    width: 100%;
+    top: -0.4rem;
+    position: relative;
+}
+#global_list .global_listSortBox ul{
+	position: absolute;
+    width: 100%;
+    background-color: #fff;
+    box-shadow: 0 0.04rem 0.12rem 0.04rem #ddd;
+    border-radius: 0.2rem;
+    /* padding-top: 0.34rem; */
+    display: none;
+    overflow: hidden;
+}
+#global_list .global_listSortBox ul li{
+    padding: 0.24rem 0;
+}
+#global_list .global_listSortBox ul li.hover{
+	background-color: #efefef;
+}
+#global_list .global_listSortBox ul li:first-of-type{
+    padding-top: 0.56rem;
+}

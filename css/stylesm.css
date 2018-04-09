@@ -1,0 +1,571 @@
+@media screen and (min-width: 768px) {
+  .mnav, .sk_con {
+    width: 768px;
+    margin: 0 auto;
+  }
+
+  .smenu {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 0.1em;
+  }
+
+  #nav li {
+    float: left;
+    width: 20%;
+  }
+
+  .snav li {
+    float: left;
+    width: 25%;
+  }
+
+  .fbitem {
+    margin: 0 1px 6px 0;
+  }
+
+  .shpv, .topic, .lock, .headp, .gcnc, .tagc, #pvcenter, .collot, .dibot, #mains, #mycenter, .s_content, .yllls ,.content{
+    width: 640px;
+  }
+
+ #b_upload, .shtp, .fbox, .fcash, #tcenter {
+    width: 768px;
+  }
+
+  .fbox {
+    width: 640px;
+  }
+
+  .collo ul {
+    display: block;
+    width: 640px;
+    margin: 0 auto;
+  }
+
+  #container .usbtn1 {
+    left: 326px;
+  }
+
+  #container .usbtn2 {
+    left: 400px;
+  }
+
+  .fctitle {
+    width: 768px;
+  }
+
+  .frebg {
+    height: 174px;
+    width: 768px;
+  }
+
+  .bu_fb {
+    width: 75%;
+  }
+
+  .buf_txt, .buf_from {
+    float: left;
+    width: 100%;
+  }
+
+  .shps li {
+    width: 25%;
+    display: block;
+    float: left;
+  }
+
+    .shps li.shps1 a {
+      float: left;
+    }
+
+    .shps li.shps2 {
+      float: none;
+      position: absolute;
+      top: 0px;
+      left: 440px;
+    }
+
+      .shps li.shps2 a {
+        float: left;
+      }
+
+    .shps li.shps3 {
+      float: none;
+      position: absolute;
+      top: 0px;
+      left: 180px;
+    }
+
+    .shps li.shps3, .shps li.shps4 {
+      margin: 2px 0 0 0;
+    }
+
+  .thlbkc {
+    width: 640px;
+    margin: 0 auto;
+  }
+
+  .thbnav ul {
+    display: block;
+    width: 640px;
+    margin: 0 auto;
+  }
+
+  .thbnav li a {
+    width: 32.2%;
+    margin: 0 0.2% 0 0.6%;
+  }
+
+  .thupt {
+    background: #ff527d url(images/tourt_05.jpg) no-repeat center;
+    background-size: 100%;
+  }
+
+  .ppha {
+    left: 130px;
+  }
+
+  #nppsh {
+    left: 310px;
+  }
+
+  #ppcu {
+    left: 220px;
+  }
+
+  .nppad {
+    right: 110px;
+  }
+
+  .ppctl dl dd {
+    width: 90%;
+  }
+
+  .mvctl dl dd {
+    width: 89%;
+  }
+
+  .ppctl dl.mag dd {
+    width: 86%;
+  }
+
+  .skillbar {
+    width: 80%;
+  }
+
+  #mynot dl dt {
+    background: #ffedc5 url(images/arr01.png) no-repeat 610px center;
+    background-size: 16px 14px;
+  }
+
+    #mynot dl dt.sharru {
+      background: url(images/arr02.png) no-repeat 610px center;
+      background-size: 16px 14px;
+    }
+
+  .pvbox {
+    margin: 5px 0 5px 0;
+    float: left;
+    position: relative;
+    width: 314px;
+    border: #b3b3b3 solid 1px;
+  }
+
+  .uvbox {
+    width: 640px;
+    float: left;
+    position: relative;
+    border: #b3b3b3 solid 1px;
+    margin: 0px;
+  }
+
+  .pvbr {
+    width: 316px;
+    float: left;
+  }
+
+  .pvf, .pvfn {
+    float: right;
+  }
+
+  .pvfn {
+    margin: 0 0 5px 0;
+  }
+
+  .ppic {
+    width: 306px;
+    margin: 4px;
+    position: relative;
+    float: left;
+    height: 304px;
+    overflow: hidden;
+  }
+
+  .uppic, .mvpic {
+    width: 640px;
+    margin: 0px;
+  }
+
+  .cvh {
+    height: 440px;
+  }
+
+  .mydimg {
+    width: 306px;
+  }
+
+  .nppil dl {
+    width: 77px;
+  }
+
+    .nppil dl.npu {
+      float: right;
+      width: 78px;
+    }
+
+  .ppiimg img.ppifl, .ppiimg img.ppifr {
+    width: 316px;
+    float: left;
+    display: block;
+    margin: 4px 4px 4px 0;
+  }
+
+  .ppiimg img.ppifr {
+    margin: 4px 0 4px 4px;
+    float: right;
+  }
+
+  .plebg {
+    height: 140px;
+  }
+
+  #pvcenter .cbb7 {
+    left: 350px;
+  }
+
+  #pvcenter .cbb6 {
+    left: 250px;
+  }
+
+  .mypicb {
+    width: 390px;
+  }
+
+  #pvcenter .cbb4 {
+    left: 212px;
+  }
+
+  #pvcenter .cbb5 {
+    width: 60px;
+    background: #e98900;
+    left: 330px;
+  }
+
+  #ppbox li .thup li {
+    margin: 10px 0 10px 6px;
+  }
+
+  .fvbox {
+    padding: 5px 0 0 0;
+    width: 100%;
+    float: left;
+  }
+
+  .fcc dl.fd1 {
+    width: 50%;
+  }
+
+  .pcbox {
+    padding: 0px;
+  }
+
+  .fcc dl.fd2 {
+    width: 748px;
+  }
+
+  .cbblb {
+    height: 114px;
+  }
+
+  .fbm {
+    margin: 0 4px 0 4px;
+  }
+
+  .vsre dl dd.vsr2 {
+    width: 80%;
+  }
+
+  .shpic {
+    width: 60px;
+    height: 60px;
+    top: -20px;
+    right: 20px;
+  }
+
+  .shtb dl dd.shb {
+    padding: 14px 10px 0 10px;
+  }
+
+  #fshould {
+    width: 640px;
+  }
+
+  .fscl li {
+    margin: 10px 0 6px 14px;
+  }
+
+  .ybg {
+    background-size: contain;
+    background-position: center center;
+    background-repeat: repeat-y;
+    width: 100%;
+    min-height: 480px;
+    float: left;
+  }
+
+  .v_butdiv, .vbjf {
+    width: 100%;
+  }
+
+  .yeinfo {
+    width: 314px;
+  }
+
+  .yfr {
+    float: right;
+    margin: 0;
+  }
+
+  .ycj li {
+    height: 80px;
+  }
+
+    .ycj li img {
+      width: 80px;
+    }
+
+  #bar3 .swiper-container {
+    height: 200px;
+  }
+
+  .ppctl dl dd.rebtn {
+    width: 30px;
+  }
+
+  .ma_info {
+    width: 630px;
+  }
+
+  .myba {
+    width: 89%;
+  }
+
+  .vg_box {
+    width: 91%;
+  }
+
+  .l_box {
+    width: 100%;
+  }
+
+  .vg_text {
+    width: 86%;
+    float: right;
+  }
+
+  .env_title {
+    padding: 0 8px 0 70px;
+  }
+
+  .tabar li {
+    width: 25%;
+  }
+
+  .htnav li {
+    width: 25%;
+  }
+
+    .htnav li a {
+      width: 150px;
+    }
+
+  .mabox, .mapic {
+    width: 630px;
+  }
+
+  .mppsh {
+    top: 10px;
+    left: 260px;
+  }
+
+  .so_pic {
+    height: 338px;
+  }
+
+  .s_info {
+    margin: 0px;
+  }
+
+  .s_one {
+    height: 472px;
+    overflow: hidden;
+  }
+
+  .s_info {
+    height: 472px;
+    overflow: hidden;
+  }
+
+  .fsbl {
+    width: 24%;
+    margin: 5px 0.43333%;
+  }
+
+  .mvbox, .mvpic {
+    width: 614px;
+  }
+
+  .gmun {
+    right: 10px;
+  }
+
+  .sortw {
+    width: 640px;
+  }
+
+  .sobammer {
+    padding: 0px;
+  }
+
+    .sobammer li {
+      width: 50%;
+      padding: 0 5px;
+    }
+
+      .sobammer li:nth-child(2) {
+        float: right;
+      }
+
+  .alphoto li:nth-child(2n+0) {
+    float: right;
+  }
+
+  .thitme {
+    margin: 10px 6px 10px 0;
+  }
+
+  a.mytd6 {
+    width: 28%;
+  }
+
+  .inte {
+    padding: 6px 0;
+  }
+
+  #frelist {
+    width: 640px;
+    margin: 0 auto;
+  }
+
+  .fritem.fr {
+    float: right;
+  }
+
+  .mycpi dl dd.cpi11 {
+    width: 90%;
+  }
+
+  .vgw1 {
+    width: 100%;
+  }
+
+  .l_text {
+    width: 88%;
+  }
+
+  .bloan {
+    width: 92%;
+    border: none;
+    float: right;
+  }
+
+  .vnl {
+    border: none;
+  }
+
+  .fcc_ch dl {
+    width: 50%;
+  }
+
+    .fcc_ch dl:nth-child(1) {
+      border-right: #dcdcdc solid 1px;
+    }
+
+  .taright, .rpcon {
+    width: 84%;
+  }
+
+  .sritem {
+    margin: 0 10px 4px 0;
+  }
+
+    .sritem.nt2 {
+      margin: 0 0 4px 0;
+    }
+
+  .fshl li {
+    margin: 10px 0 6px 17px;
+  }
+
+  .fvw1 {
+    width: 86px;
+  }
+
+  .lbtw1 {
+    width: 100%;
+  }
+
+  .nulist li img, .nured, .nulist li a {
+    width: 50px;
+    height: 50px;
+  }
+
+  .nured {
+    padding: 8px 0 0 0;
+  }
+  .nulist li {
+
+    width: 11%;
+
+  }
+.nulist li:nth-child(n+9){
+  display:none;
+}
+.nulist li:last-child{
+  display:block;
+}
+.used_menu{
+    width:99.7%;
+}
+
+.optional{
+	color: #000 !important;
+	background-color: #f5f5f5;
+}
+.Unable{
+	color: #bbb !important;
+	background-color: #f5f5f5;
+}
+.current{
+  border: #ff658c solid 1px;
+  background: #ff658c;
+  color: #fff;
+}
+
+.vglist h1 {
+  font-size: 14px;
+  color: #707070;
+  padding: 3px 0;
+}
+
+}
